@@ -136,17 +136,18 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+# Personalize the colours in your website. Nature Theme
+page-col: "#FAF9F6"        # Off-white / Cream (Easier on eyes than pure white)
+text-col: "#2F4F4F"        # Dark Slate Gray (Softer than black)
+link-col: "#556B2F"        # Dark Olive Green (Nature links)
+hover-col: "#228B22"       # Forest Green (Hover effect)
+navbar-col: "#8FBC8F"      # Sage Green (Soft nature header)
+navbar-text-col: "#FFFFFF" # White text on the green header
+navbar-border-col: "#6B8E23" # Olive Drab border
+footer-col: "#F5F5DC"      # Beige (Earth tone footer)
+footer-text-col: "#555555" # Grey text
+footer-link-col: "#556B2F" # Matching links
+footer-hover-col: "#228B22" # Matching hover
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
